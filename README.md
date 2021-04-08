@@ -1,4 +1,4 @@
-# SSPanel 自动签到
+# SSPanel 自动签到 无法多个机场签到
 
 ![SSPanel_Auto_Checkin](https://github.com/isecret/sspanel-autocheckin/workflows/SSPanel_Auto_Checkin/badge.svg)
 
